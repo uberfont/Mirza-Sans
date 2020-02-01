@@ -12,6 +12,6 @@ Des empattements lui ont été dessinés, rompant ainsi avec la tradition des li
 
 # Pour l'utiliser sur votre site
 
-Rien de plus simple, copier/coller ce code dans votre balise <head> et utiliser font-family: 'MirzaSans'; dans votre fichier css.
+Rien de plus simple, copier/coller le code ci-dessous dans votre balise `<head>` et utiliser `font-family: 'MirzaSans';` dans votre fichier css.
 
-<link rel="stylesheet" href="https://www.uberfont.fr/wp-content/uploads/2020/02/mirzasans.css" type="text/css" charset="utf-8" />
+`<link rel="stylesheet" href="https://www.uberfont.fr/wp-content/uploads/2020/02/mirzasans.css" type="text/css" charset="utf-8" />`
